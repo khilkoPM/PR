@@ -14,7 +14,7 @@ this.shourenjingjichang_enter_event <- this.inherit("scripts/events/event", {
 			Characters = [],
 			Options = [
 				{
-					Text = "Let's go!",
+					Text = "Let's goo!",
 					function getResult( _event )
 					{
 						return "B";
